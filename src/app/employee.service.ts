@@ -11,7 +11,6 @@ export class EmployeeService {
 
 //   private baseURL='http://localhost:8080/api/v1/employees';
 //   private baseURL1="http://localhost:8080/api/v1/employees";
-  https://springboot-java-backend.herokuapp.com/api/v1/employees
   private baseURL='https://springboot-java-backend.herokuapp.com/api/v1/employees';
   private baseURL1="https://springboot-java-backend.herokuapp.com/api/v1/employees";
 
